@@ -10,4 +10,4 @@ To test this web application you have to follow these steps:
 		Username:admin
 		Password:adminpassword
 		
-For Detailed Explanation - 
+For Detailed Explanation use this blog post i have posted in this link - https://cybrzone.blogspot.com/2019/10/cross-site-request-forgery-prevention.html
